@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/iuliia-dabizha-991552372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuliia dabizha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/julia.dabizha.7?mibextid=wwXIfr&rdid=ga8S5vweTVZUQD2Q&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1YoGmd4C8q%2F%3Fmibextid%3DwwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iuliia dabizha" height="30" width="40" /></a>
-<a href="https://discord.gg/igela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="igela" height="30" width="40" /></a>
+<a href="https://discord.gg/Sbrp9UMh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="igela" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
